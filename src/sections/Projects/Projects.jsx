@@ -12,12 +12,16 @@ function Projects() {
           link="https://spiffy-pasca-9e0459.netlify.app/"
           h3="Web Frontend"
           p="Banking App- React and Tailwind"
+          height="250px"
+          width="150px"
         />
         <ProjectCard
           src={youtubeClone}
           link="https://bright-cat-2b9d4b.netlify.app/"
           h3="Web Frontend-API"
           p="Youtube Clone -React and Material UI"
+          height="250px"
+          width="150px"
         />
       </div>
     </section>
