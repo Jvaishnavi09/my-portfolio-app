@@ -1,7 +1,7 @@
 import styles from "./ProjectsStyles.module.css";
 import hoobank from "../../assets/Desktop - 1.png";
 import ProjectCard from "../../common/ProjectCard";
-import youtubeClone from "../../assets/YOUTUBE CLONE.png";
+import youtubeClone from "../../assets/YoutubeClonePic.png";
 function Projects() {
   return (
     <section id="projects" className={styles.container}>
