@@ -21,6 +21,7 @@ function Skills() {
       <hr />
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="React" />
+        <SkillList src={checkMarkIcon} skill="Next.js" />
         <SkillList src={checkMarkIcon} skill="Node" />
         <SkillList src={checkMarkIcon} skill="Express" />
         <SkillList src={checkMarkIcon} skill="MongoDB" />
